@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
-/*
- * write program that prints exactly
+/**
+ * main - Entry point
+ * Describtion: main - prints exactly
  * and that piece of art is useful" - Dora Korpar, 2015-10-19,
  * to the standard error
  * Return: Always 0 (Success)

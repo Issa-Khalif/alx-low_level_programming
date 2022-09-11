@@ -1,6 +1,8 @@
 #include <stdio.h>
-/*
- * print a string using the function puts
+/**
+ * main - Entry point
+ * Describtion: main - print a string using the function puts
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
